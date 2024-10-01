@@ -123,5 +123,5 @@ analyze_csv_data <- function(file_path) {
 }
 
 # Example usage
-file_path <- "/kaggle/input/data-csv/Housing.csv"  # Replace with your file path
+file_path <- "Housing.csv"  # Replace with your file path
 analyze_csv_data(file_path)
